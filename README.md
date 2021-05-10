@@ -1,5 +1,7 @@
-<head>
-  <link rel="manifest" href='/teste/manifest10.json' />
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <link rel="manifest" href='/manifest10.json' />
  </head>
 
 teste quintal caipira
