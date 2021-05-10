@@ -1,7 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
   <head>
-  <link rel="manifest" href='/manifest10.json' />
+  <link rel="manifest" href='https://github.com/quintal-caipira/teste/blob/main/manifest10.json' />
  </head>
 
 
