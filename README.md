@@ -1,6 +1,6 @@
 <head>
-  <link rel="manifest" href='https://cdn.awsli.com.br/1930/1930588/arquivos/manifest08.js' />
-  </head>
+  <link rel="manifest" href='https://github.com/quintal-caipira/teste/blob/main/manifest10.json' />
+ </head>
 
 teste quintal caipira
 # teste
